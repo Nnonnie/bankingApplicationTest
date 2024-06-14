@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bank App</string>
+    <string name="account_name">Account Name</string>
+    <string name="transaction_date">Transaction Date</string>
+    <string name="transaction_amount">Transaction Amount</string>
+    <string name="transaction_fee">Transaction Fee</string>
+    <string name="transaction_details">Transaction Details</string>
+    <string name="transaction_holder">Transaction Holder</string>
+</resources>

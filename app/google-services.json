@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232878998807",
+    "project_id": "ndiulor-nech",
+    "storage_bucket": "ndiulor-nech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232878998807:android:4da955587521d6dd506352",
+        "android_client_info": {
+          "package_name": "com.nnech.Ndiulor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232878998807-hvpjs4aensnog91387akiektq238q2h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKIztAb3tBYIC7nlUQp93-djVFsIK1iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232878998807-hvpjs4aensnog91387akiektq238q2h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
